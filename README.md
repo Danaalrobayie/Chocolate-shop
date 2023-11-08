@@ -1,6 +1,6 @@
-# Chocolate-shop
+# The-Chocolate-shop
 
-# Chocolate Shop - Measurement Plan
+# The Chocolate Shop - Measurement Plan
 
 Welcome to the Chocolate Shop's measurement plan. Our goal is to boost online chocolate sales, and we've outlined key objectives and goals to achieve this. 
 
